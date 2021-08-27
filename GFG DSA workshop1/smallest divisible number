@@ -1,0 +1,16 @@
+/*Given a number N, find an integer denoting the smallest number evenly divisible by each number from 1 to n.*/
+
+class Solution{
+public:
+    long long getSmallestDivNum(long long n){
+        // code here
+        long long ans;ans=1;
+        for(long long i=2;i<=n;i++)
+        {
+             ans=ans*i/(__gcd(i,ans));
+        }
+        
+        return ans;
+    
+    }
+};
