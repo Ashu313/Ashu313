@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashu313
+- 👋 Hi, I’m @Ashu31    
 - 👀 I’m interested in ..competetiveprogramming and app devlopment.
 - 🌱 I’m currently learning .in bhagwan parshuram institute of technology ,studying in IT -branch
 - ..
