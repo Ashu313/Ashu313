@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashu313   
 - 👀 I’m interested in ..competetiveprogramming and web devlopment.
 - 🌱 I’m currently stydying  in bhagwan parshuram institute of technology ,studying in IT -branch
-- ..
 - 💞️ I love to learn new things and want to explore various oppurtunity.
 
 
