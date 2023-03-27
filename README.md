@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Ashu313<br>👀 I’m interested in .. competitive programming and web development.<br>🌱 I’m currently studying in bhagwan parshuram institute of technology,studying in IT -branch<br>💞️ I love to learn new things and want to explore various opportunities.<br>
+👋 Hi, I’m Ashutosh Kumar<br>👀 I’m interested in .. competitive programming and web development.<br>🌱 I’m currently studying in bhagwan parshuram institute of technology,studying in IT -branch<br>💞️ I love to learn new things and want to explore various opportunities.<br>
 
 
 ## 🌐 Socials:
